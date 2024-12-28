@@ -14,4 +14,4 @@ JavaScript Functionality:
 
 Captures user inputs and calculates BMI using the formula weight / height².
 Determines BMI category: "Underweight," "Normal weight," "Overweight," or "Obese."
-Displays the BMI value and category dynamically in the result <div>.
+Displays the BMI value and category dynamically in the result <div>
